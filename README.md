@@ -37,6 +37,7 @@ base:南京
 - 小工具:Photoshop、Premiere等常用工具
 - 测试\持续集成:Buddy、Jenkins(学习中)
 - git
+- Docker
 
 # 项目经历：
 ## 药方拍立得(2019.3-2019.8)
